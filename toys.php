@@ -6,7 +6,7 @@
             "img" => "OPG1.jpg",
             "category" => "Action Figures",
             "brand" => "Hasbro",
-            "country" => "Transformers",
+            "country" => "United States",
             "name" => "Optimus Prime",
             "version" => "Optimus Prime G1",
             "price" => "282.56",
@@ -17,18 +17,18 @@
             "img" => "YODA.jpg",
             "category" => "Building Sets",
             "brand" => "LEGO",
-            "country" => "Star Wars",
+            "country" => "Denmark",
             "name" => "Yoda",
             "version" => "Baby Yoda",
             "price" => "89.99",
             "release_date" => "2021",
-            "description" => "mouth and ears for a range of lovable expressions, bringing it to life when playing!"
+            "description" => "Adorable ears and eyes for a range of lovable expressions, bringing it to life when playing!"
         ],
         [
             "img" => "BARBIE.jpg",
             "category" => "Doll",
             "brand" => "Barbie",
-            "country" => "Barbie Fashionistas Doll",
+            "country" => "United Kingdom",
             "name" => "Barbie",
             "version" => "Fashionista 2021",
             "price" => "24.99",
@@ -39,7 +39,7 @@
             "img" => "MONO.jpg",
             "category" => "Board Games",
             "brand" => "Hasbro",
-            "country" => "Monopoly",
+            "country" => "United States",
             "name" => "Monopoly Board Game",
             "version" => "Ultimate Banking Edition",
             "price" => "19.99",
@@ -50,7 +50,7 @@
             "img" => "MEGA.jpg",
             "category" => "Outdoor Toys",
             "brand" => "Nerf",
-            "country" => "Nerf Gun",
+            "country" => "United States",
             "name" => "N-Strike",
             "version" => "N-Strike Mega",
             "price" => "63.48",
@@ -65,7 +65,7 @@
             "name" => "Shark Hand Puppet",
             "version" => "Realistic Latex Animal",
             "price" => "9.99",
-            "release_date" => "20",
+            "release_date" => "2021",
             "description" => "This puppets toys is an exceptional gift for kids.It can be used in many occasions such as party favors,birthday cake toppers,festival gift,educational purpose etc."
         ]
         ];
