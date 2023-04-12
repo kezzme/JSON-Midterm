@@ -22,7 +22,7 @@
             "version" => "Baby Yoda",
             "price" => "89.99",
             "release_date" => "2021",
-            "description" => "Adorable ears and eyes for a range of lovable expressions, bringing it to life when playing!"
+            "description" => "Adorable ears and eyes for a lovable expressions, bringing it to life when playing!"
         ],
         [
             "img" => "BARBIE.jpg",
